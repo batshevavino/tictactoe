@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(246, 248, 148);
+}
+
+.cardi {
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
+
+.panel-body {
+    padding: 10px 30px;
+  }
+
+h2,h3 {
+    color: blue;
+}
+
+h4 {
+    color: rgb(61, 167, 216);
+}
+
+.panelBorder {
+	border-color: #ECC925;
+    }
+
